@@ -1,0 +1,23 @@
+{
+  "name": "lesson4",
+  "description": "lab3 deployed to azure",
+  "main": "",
+  "authors": [
+    "D'Arcey Taylor <darceytaylor05@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DArceyTaylor/Lesson-4",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
